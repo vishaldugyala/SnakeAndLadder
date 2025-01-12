@@ -7,4 +7,5 @@ configured.
 To run:
 
 Build binary: go build main.go
+
 Run the game: ./main -b 100 -d 2 -p 5 -l 12=25 -s 26=20,15=5
